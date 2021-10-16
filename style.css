@@ -260,7 +260,7 @@ section {
   }
   .box2:hover{
     transform: scale(1.3);
-    background: #ff800a;
+    background: #22a6b3;
     z-index: 2;
     box-shadow: 2px 2px 2px #000;
     
@@ -275,7 +275,7 @@ section {
   }
   .box3:hover{
     transform: scale(1.3);
-    background: #686de0;
+    background: #eb4d4b;
     z-index: 2;
     box-shadow: 2px 2px 2px #000;
     
