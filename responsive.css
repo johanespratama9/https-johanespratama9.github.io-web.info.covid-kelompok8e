@@ -11,4 +11,13 @@
   span.menu-icon {
     display: block;
   }
+
+  /* revisi */
+  .box, .box1, .box2, .box3{
+    width: 90%;
+  }
+  .lesson {
+    width: 100%;
+  }
+
 }
